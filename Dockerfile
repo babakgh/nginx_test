@@ -1,2 +1,2 @@
 FROM nginx
-RUN ls -al
+RUN false
